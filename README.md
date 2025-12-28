@@ -47,7 +47,12 @@ dan akurat.
 ✅ Siap untuk portofolio
 
 ## 📷 Preview
-_(Tambahkan screenshot dashboard & PDF di sini)_
+<img width="1882" height="932" alt="dashboard" src="https://github.com/user-attachments/assets/a5d4dad3-8378-4557-8406-906173dc1309" />
+<img width="1912" height="924" alt="kelola" src="https://github.com/user-attachments/assets/8898dba0-1836-495a-b05c-708932cd445e" />
+<img width="1911" height="934" alt="tambahproduk" src="https://github.com/user-attachments/assets/240565b5-de44-4fa9-beb5-e9ae02aa450b" />
+<img width="1583" height="482" alt="peringatanstok" src="https://github.com/user-attachments/assets/19a2ee12-3c9b-4528-9e41-b9e3dd9d2e5d" />
+<img width="991" height="878" alt="exportpdf" src="https://github.com/user-attachments/assets/a6f46a8a-7ad5-4818-98e5-2d8abc8e04c5" />
+
 
 ## 👨‍💻 Pengembang
 [Al Mushhaf Fahlul Rasyid]  
